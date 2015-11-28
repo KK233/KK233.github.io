@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "测试"
+date:   2015-11-28 17:09:08 +0800
+---
+{% highlight objective-c %}
+-(void)testView {
+CGFloat test = 1.1;
+}
+{% endhighlight %}
