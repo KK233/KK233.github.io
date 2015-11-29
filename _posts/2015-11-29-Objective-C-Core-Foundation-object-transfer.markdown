@@ -17,5 +17,5 @@ categories: iOS
 - `__bridge_transfer`或者`CFBridgingRelease` 把一个非Objective-C的指针指向Objective-C，把它的所有权交给ARC管理，这种情况在CF对象向OC对象转换的时候，经常使用。
 
 ####可以进行TFB机制转换的对象对应（[官网](https://developer.apple.com/library/ios/documentation/CoreFoundation/Conceptual/CFDesignConcepts/Articles/tollFreeBridgedTypes.html)）
-![Alt text](./1448808794538.png)
+![Alt text](kramdow://github.com/KK233/KK233.github.io/blob/master/_posts/1448808794538.png)
 
